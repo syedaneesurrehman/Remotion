@@ -1,0 +1,22 @@
+/** Caption lines from voiceover/voiceover.srt: [startSec, endSec, text]. */
+export const CAPTIONS: [number, number, string][] = [
+  [0.0, 2.341, 'Nobody taught you how money works in school.'],
+  [2.541, 5.051, "But it affects every decision you'll ever make."],
+  [5.251, 7.489, "Let's fix that in sixty seconds."],
+  [7.689, 12.493, 'Financial literacy is simply knowing how to earn, spend, save, and grow your money.'],
+  [12.693, 15.399, 'Start with one rule: spend less than you earn.'],
+  [15.599, 19.748, 'It sounds obvious, but most people never track where their money goes.'],
+  [19.948, 22.485, 'Try the fifty, thirty, twenty rule.'],
+  [22.685, 26.522, 'Fifty percent of your income goes to needs, like rent and food.'],
+  [26.722, 28.628, 'Thirty percent goes to wants.'],
+  [28.828, 31.801, 'Twenty percent goes to savings and debt payoff.'],
+  [32.001, 35.945, 'Build an emergency fund that covers three to six months of expenses.'],
+  [36.145, 38.318, 'And pay off high-interest debt first.'],
+  [38.518, 42.203, 'Credit card interest can cost you more than your investments earn.'],
+  [42.403, 44.124, 'Then let time work for you.'],
+  [44.324, 48.24, 'Compound interest means your money earns money, and that money earns more.'],
+  [48.44, 51.977, 'Starting small today beats starting big ten years from now.'],
+  [52.177, 54.357, "You don't need to be rich to learn this."],
+  [54.557, 56.058, 'You just need to start.'],
+  [56.258, 58.795, 'Follow for more money lessons they never taught you.'],
+];

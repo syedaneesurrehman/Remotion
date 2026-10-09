@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render Inflation out/inflation.mp4"
+    "build": "remotion render Inflation out/inflation.mp4",
+    "build:fl": "remotion render FinancialLiteracy out/financial-literacy.mp4"
   },
   "dependencies": {
     "@remotion/bundler": "^4.0.532",
